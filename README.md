@@ -113,7 +113,7 @@ Comprehensive testing suite using **Jest** and **React Testing Library**.
 - **Coverage**: Core flows and components fully covered
 - **Status**: ✅ All tests passing
 
-### ✅ Unit Tests (5+ Required)
+### ✅ Unit Tests 
 
 Tests for individual reusable components:
 
@@ -123,7 +123,7 @@ Tests for individual reusable components:
 - `ProductCard.test.tsx`: Props and rendering logic.
 - `Spinner.test.tsx`, `Skeleton.test.tsx`, `Theme.test.tsx`, etc.
 
-### 🔄 Integration Tests (5+ Required)
+### 🔄 Integration Tests 
 
 Tests for complex user flows:
 
