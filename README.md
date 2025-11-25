@@ -8,7 +8,7 @@ A fully responsive, high-performance e-commerce frontend built with **Next.js Ap
 
 ## 🚀 Live Demo
 
-**[View Live Demo on Vercel](https://your-vercel-link-here.app)**
+**[View Live Demo on Vercel](https://shop-shere-nine.vercel.app)**
 
 ---
 

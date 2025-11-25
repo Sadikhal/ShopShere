@@ -95,7 +95,7 @@ export default function ProductDetailClient({ product }: { product: Product }) {
           <div>
             <div className="flex items-center gap-2 mb-2">
               <Badge>{product.brand}</Badge>
-              <Badge className="bg-bg-secondary text-slate-700 dark:bg-bg-secondary dark:text-slate-300">
+              <Badge className="bg-bg-secondary text-slate-700 dark:text-slate-900 dark:bg-bg-secondary">
                 {product.category}
               </Badge>
             </div>
